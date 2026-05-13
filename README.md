@@ -18,12 +18,12 @@ Frontend: React, TypeScript, Tailwind CSS, Vite
 State Management: React Context API
 Folder Structure
 src/
-■■■ components/
-■■■ context/
-■■■ pages/
-■■■ services/
-■■■ utils/
-■■■ App.tsx
+  components/
+  context/
+   pages/
+  services/
+  utils/
+   App.tsx
 Setup Instructions
 1. git clone <repository-url>
 2. npm install
